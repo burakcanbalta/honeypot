@@ -1,0 +1,10 @@
+{
+    "ports": [22, 2222, 22222],
+    "silent_mode": false,
+    "firewall_block": true,
+    "max_connections": 5,
+    "timeout": 30,
+    "discord_webhook": "WEBHOOK_URL",
+    "abuseipdb_key": "API_KEY", 
+    "virustotal_key": "API_KEY"
+}
