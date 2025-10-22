@@ -1,2 +1,2 @@
-flask
-requests
+pip install requests
+sudo python honeytrap_tr.py
